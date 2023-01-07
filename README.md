@@ -5,6 +5,9 @@ A calculator app built with HTML/CSS and JavaScript
 * Has Light and Dark mode
 * Button hover effect
 
-https://user-images.githubusercontent.com/111725078/211121346-7db8b049-0220-4de8-b85a-920363c3fc29.JPG
 
-https://user-images.githubusercontent.com/111725078/211121354-9e302814-0a49-48de-af15-ac967fa106e5.JPG
+![calculator v2-1](https://user-images.githubusercontent.com/111725078/211121439-be91268f-777f-4c37-b3dd-ff4866875811.JPG)
+
+![calculator v2-2](https://user-images.githubusercontent.com/111725078/211121448-404ef33d-6960-4103-b5ff-274a94f0d977.JPG)
+
+
