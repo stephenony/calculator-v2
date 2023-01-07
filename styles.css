@@ -111,7 +111,7 @@ button#equal {
 }
 
 .calculator #display {
-  color: #0a1e23;
+  color: #000;
 }
 
 /* .calculator button#display {
@@ -144,7 +144,7 @@ button#equal {
   background-color: #071115;
 }
 
-.calculator #display {
+.calculator.dark #display {
   color: #fff;
 }
 
